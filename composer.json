@@ -1,5 +1,5 @@
 {
-    "name": "fm-labs/cakephp3-sitemap",
+    "name": "geo-poland/cakephp3-sitemap",
     "description": "Sitemap plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
