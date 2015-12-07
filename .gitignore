@@ -1,2 +1,7 @@
-.idea/
-vendor/
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/.settings
+/.project
+/.buildpath
